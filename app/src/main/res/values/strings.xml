@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="day_7">SATURDAY</string>
+    <string name="day_6">FRIDAY</string>
+    <string name="day_5">THURSDAY</string>
+    <string name="day_4">WEDNESDAY</string>
+    <string name="day_3">TUESDAY</string>
+    <string name="day_2">MONDAY</string>
+    <string name="day_1">SUNDAY</string>
+    <string name="city_name">LAHORE</string>
+    <string name="curren_weather_condition">CLEAR</string>
+    <string name="current_temp">22°</string>
+    <string name="day1_t">21°</string>
+    <string name="day2_t">24°</string>
+    <string name="day3_t">32°</string>
+    <string name="day4_t">30°</string>
+    <string name="day5_t">22°</string>
+    <string name="day6_t">12°</string>
+</resources>
